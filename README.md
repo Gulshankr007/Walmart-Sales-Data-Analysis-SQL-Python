@@ -1,4 +1,4 @@
-                                                Walmart-Sales-Data-Analysis-SQL-Python
+                                        Walmart-Sales-Data-Analysis-SQL-Python
 
 ## Project Overview
 
